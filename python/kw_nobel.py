@@ -4,7 +4,7 @@ from collections import Counter
 from astropy.io import ascii
 from datetime import date
 
-nobelpath = '/Users/willettk/Documents/Nobel/nobel/'
+datapath = '../data/'
 
 def died_in_different_country(api, verbose=False):
 
@@ -109,11 +109,11 @@ def aggregate_countries(llist,n=10,showall=False):
 def geocode_paths(api,paths):
 
     # read in avg. lat/lon coordinates of countries
-    data = ascii.read('%s%s' % (nobelpath,'country_coo.csv'),names=('code','lat','lon'))
+    data = ascii.read('%s%s' % (datapath,'country_coo.csv'),names=('code','lat','lon'))
     code,lat,lon = data['code'],data['lat'],data['lon']
 
     # open file
-    f = open('%s%s' % (nobelpath,'emigrations_R.csv'),'wb')
+    f = open('%s%s' % (datapath,'emigrations_R.csv'),'wb')
     f.write('c1 c2 lon1 lat1 lon2 lat2 cnt \n')
     # loop over paths
     for em in paths:
@@ -136,11 +136,11 @@ def geocode_paths(api,paths):
 def geocode_points(api,points):
 
     # read in avg. lat/lon coordinates of countries
-    data = ascii.read('%s%s' % (nobelpath,'country_coo.csv'),names=('code','lat','lon'))
+    data = ascii.read('%s%s' % (datapath,'country_coo.csv'),names=('code','lat','lon'))
     code,lat,lon = data['code'],data['lat'],data['lon']
 
     # open file
-    f = open('%s%s' % (nobelpath,'points_R.csv'),'wb')
+    f = open('%s%s' % (datapath,'points_R.csv'),'wb')
     f.write('c1 lon1 lat1 cnt \n')
     # loop over points
     for em in points:

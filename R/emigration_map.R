@@ -66,7 +66,7 @@ for (j in 1:length(nobel$lon1)) {
 # Laureates who died in their birth country or are not dead
 
 # load file
-nobel_points <- read.table('/Users/willettk/Documents/Nobel/nobel/points_r.csv',header=TRUE)
+nobel_points <- read.table('../data/points_r.csv',header=TRUE)
 nobel_points <- nobel_points[order(nobel_points$cnt),]
 
 # Loop over unique points
