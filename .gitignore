@@ -40,3 +40,9 @@ vignettes/*.pdf
 # Temporary files created by R markdown
 *.utf8.md
 *.knit.md
+
+# Swap files
+.*sw[a-z]
+
+# Build directory
+build
