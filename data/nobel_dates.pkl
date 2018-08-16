@@ -1,0 +1,1228 @@
+(lp1
+(S'w'
+S'Sully Prudhomme'
+cdatetime
+date
+p2
+(S'\x07m\n\n'
+tRp3
+tp4
+a(S'd'
+S'Sully Prudhomme'
+g2
+(S'\x07s\t\x07'
+tRp5
+tp6
+a(S'w'
+S'Christian Matthias Theodor Mommsen'
+g2
+(S'\x07n\n\n'
+tRp7
+tp8
+a(S'd'
+S'Christian Matthias Theodor Mommsen'
+g2
+(S'\x07o\x0b\x01'
+tRp9
+tp10
+a(S'w'
+S'Bj\xc3\xb8rnstjerne Martinus Bj\xc3\xb8rnson'
+g2
+(S'\x07o\n\n'
+tRp11
+tp12
+a(S'd'
+S'Bj\xc3\xb8rnstjerne Martinus Bj\xc3\xb8rnson'
+g2
+(S'\x07v\x04\x1a'
+tRp13
+tp14
+a(S'w'
+S'Fr\xc3\xa9d\xc3\xa9ric Mistral'
+g2
+(S'\x07p\n\n'
+tRp15
+tp16
+a(S'd'
+S'Fr\xc3\xa9d\xc3\xa9ric Mistral'
+g2
+(S'\x07z\x03\x19'
+tRp17
+tp18
+a(S'w'
+S'Henryk Sienkiewicz'
+g2
+(S'\x07q\n\n'
+tRp19
+tp20
+a(S'd'
+S'Henryk Sienkiewicz'
+g2
+(S'\x07|\x0b\x0f'
+tRp21
+tp22
+a(S'w'
+S'Giosu\xc3\xa8 Carducci'
+g2
+(S'\x07r\n\n'
+tRp23
+tp24
+a(S'd'
+S'Giosu\xc3\xa8 Carducci'
+g2
+(S'\x07s\x02\x10'
+tRp25
+tp26
+a(S'w'
+S'Rudyard Kipling'
+g2
+(S'\x07s\n\n'
+tRp27
+tp28
+a(S'd'
+S'Rudyard Kipling'
+g2
+(S'\x07\x90\x01\x12'
+tRp29
+tp30
+a(S'w'
+S'Rudolf Christoph Eucken'
+g2
+(S'\x07t\n\n'
+tRp31
+tp32
+a(S'd'
+S'Rudolf Christoph Eucken'
+g2
+(S'\x07\x86\t\x0e'
+tRp33
+tp34
+a(S'w'
+S'Selma Ottilia Lovisa Lagerl\xc3\xb6f'
+g2
+(S'\x07u\n\n'
+tRp35
+tp36
+a(S'd'
+S'Selma Ottilia Lovisa Lagerl\xc3\xb6f'
+g2
+(S'\x07\x94\x03\x10'
+tRp37
+tp38
+a(S'w'
+S'Paul Johann Ludwig Heyse'
+g2
+(S'\x07v\n\n'
+tRp39
+tp40
+a(S'd'
+S'Paul Johann Ludwig Heyse'
+g2
+(S'\x07z\x04\x02'
+tRp41
+tp42
+a(S'w'
+S'Count Maurice (Mooris) Polidore Marie Bernhard Maeterlinck'
+g2
+(S'\x07w\n\n'
+tRp43
+tp44
+a(S'd'
+S'Count Maurice (Mooris) Polidore Marie Bernhard Maeterlinck'
+g2
+(S'\x07\x9d\x05\x06'
+tRp45
+tp46
+a(S'w'
+S'Gerhart Johann Robert Hauptmann'
+g2
+(S'\x07x\n\n'
+tRp47
+tp48
+a(S'd'
+S'Gerhart Johann Robert Hauptmann'
+g2
+(S'\x07\x9a\x06\x06'
+tRp49
+tp50
+a(S'w'
+S'Rabindranath Tagore'
+g2
+(S'\x07y\n\n'
+tRp51
+tp52
+a(S'd'
+S'Rabindranath Tagore'
+g2
+(S'\x07\x95\x08\x07'
+tRp53
+tp54
+a(S'w'
+S'Romain Rolland'
+g2
+(S'\x07{\n\n'
+tRp55
+tp56
+a(S'd'
+S'Romain Rolland'
+g2
+(S'\x07\x98\x0c\x1e'
+tRp57
+tp58
+a(S'w'
+S'Carl Gustaf Verner von Heidenstam'
+g2
+(S'\x07|\n\n'
+tRp59
+tp60
+a(S'd'
+S'Carl Gustaf Verner von Heidenstam'
+g2
+(S'\x07\x94\x05\x14'
+tRp61
+tp62
+a(S'w'
+S'Karl Adolph Gjellerup'
+g2
+(S'\x07}\n\n'
+tRp63
+tp64
+a(S'd'
+S'Karl Adolph Gjellerup'
+g2
+(S'\x07\x7f\n\x0b'
+tRp65
+tp66
+a(S'w'
+S'Carl Friedrich Georg Spitteler'
+g2
+(S'\x07\x7f\n\n'
+tRp67
+tp68
+a(S'd'
+S'Carl Friedrich Georg Spitteler'
+g2
+(S'\x07\x84\x0c\x1d'
+tRp69
+tp70
+a(S'w'
+S'Knut Pedersen Hamsun'
+g2
+(S'\x07\x80\n\n'
+tRp71
+tp72
+a(S'd'
+S'Knut Pedersen Hamsun'
+g2
+(S'\x07\xa0\x02\x13'
+tRp73
+tp74
+a(S'w'
+S'Anatole France'
+g2
+(S'\x07\x81\n\n'
+tRp75
+tp76
+a(S'd'
+S'Anatole France'
+g2
+(S'\x07\x84\n\x0c'
+tRp77
+tp78
+a(S'w'
+S'Jacinto Benavente'
+g2
+(S'\x07\x82\n\n'
+tRp79
+tp80
+a(S'd'
+S'Jacinto Benavente'
+g2
+(S'\x07\xa2\x07\x0e'
+tRp81
+tp82
+a(S'w'
+S'William Butler Yeats'
+g2
+(S'\x07\x83\n\n'
+tRp83
+tp84
+a(S'd'
+S'William Butler Yeats'
+g2
+(S'\x07\x93\x01\x1c'
+tRp85
+tp86
+a(S'w'
+S'Wladyslaw Stanislaw Reymont'
+g2
+(S'\x07\x84\n\n'
+tRp87
+tp88
+a(S'd'
+S'Wladyslaw Stanislaw Reymont'
+g2
+(S'\x07\x85\x0c\x05'
+tRp89
+tp90
+a(S'w'
+S'George Bernard Shaw'
+g2
+(S'\x07\x85\n\n'
+tRp91
+tp92
+a(S'd'
+S'George Bernard Shaw'
+g2
+(S'\x07\x9e\x0b\x02'
+tRp93
+tp94
+a(S'w'
+S'Grazia Deledda'
+g2
+(S'\x07\x86\n\n'
+tRp95
+tp96
+a(S'd'
+S'Grazia Deledda'
+g2
+(S'\x07\x90\x08\x0f'
+tRp97
+tp98
+a(S'w'
+S'Henri Bergson'
+g2
+(S'\x07\x87\n\n'
+tRp99
+tp100
+a(S'd'
+S'Henri Bergson'
+g2
+(S'\x07\x95\x01\x04'
+tRp101
+tp102
+a(S'w'
+S'Sigrid Undset'
+g2
+(S'\x07\x88\n\n'
+tRp103
+tp104
+a(S'd'
+S'Sigrid Undset'
+g2
+(S'\x07\x9d\x06\n'
+tRp105
+tp106
+a(S'w'
+S'Thomas Mann'
+g2
+(S'\x07\x89\n\n'
+tRp107
+tp108
+a(S'd'
+S'Thomas Mann'
+g2
+(S'\x07\xa3\x08\x0c'
+tRp109
+tp110
+a(S'w'
+S'Sinclair Lewis'
+g2
+(S'\x07\x8a\n\n'
+tRp111
+tp112
+a(S'd'
+S'Sinclair Lewis'
+g2
+(S'\x07\x9f\x01\n'
+tRp113
+tp114
+a(S'w'
+S'Erik Axel Karlfeldt'
+g2
+(S'\x07\x8b\n\n'
+tRp115
+tp116
+a(S'd'
+S'Erik Axel Karlfeldt'
+g2
+(S'\x07\x8b\x04\x08'
+tRp117
+tp118
+a(S'w'
+S'John Galsworthy'
+g2
+(S'\x07\x8c\n\n'
+tRp119
+tp120
+a(S'd'
+S'John Galsworthy'
+g2
+(S'\x07\x8d\x01\x1f'
+tRp121
+tp122
+a(S'w'
+S'Ivan Alekseyevich Bunin'
+g2
+(S'\x07\x8d\n\n'
+tRp123
+tp124
+a(S'd'
+S'Ivan Alekseyevich Bunin'
+g2
+(S'\x07\xa1\x0b\x08'
+tRp125
+tp126
+a(S'w'
+S'Luigi Pirandello'
+g2
+(S'\x07\x8e\n\n'
+tRp127
+tp128
+a(S'd'
+S'Luigi Pirandello'
+g2
+(S'\x07\x90\x0c\n'
+tRp129
+tp130
+a(S'w'
+S"Eugene Gladstone O'Neill"
+g2
+(S'\x07\x90\n\n'
+tRp131
+tp132
+a(S'd'
+S"Eugene Gladstone O'Neill"
+g2
+(S'\x07\xa1\x0b\x1b'
+tRp133
+tp134
+a(S'w'
+S'Roger Martin du Gard'
+g2
+(S'\x07\x91\n\n'
+tRp135
+tp136
+a(S'd'
+S'Roger Martin du Gard'
+g2
+(S'\x07\xa6\x08\x16'
+tRp137
+tp138
+a(S'w'
+S'Pearl Buck'
+g2
+(S'\x07\x92\n\n'
+tRp139
+tp140
+a(S'd'
+S'Pearl Buck'
+g2
+(S'\x07\xb5\x03\x06'
+tRp141
+tp142
+a(S'w'
+S'Frans Eemil Sillanp\xc3\xa4\xc3\xa4'
+g2
+(S'\x07\x93\n\n'
+tRp143
+tp144
+a(S'd'
+S'Frans Eemil Sillanp\xc3\xa4\xc3\xa4'
+g2
+(S'\x07\xac\x06\x03'
+tRp145
+tp146
+a(S'w'
+S'Johannes Vilhelm Jensen'
+g2
+(S'\x07\x98\n\n'
+tRp147
+tp148
+a(S'd'
+S'Johannes Vilhelm Jensen'
+g2
+(S'\x07\x9e\x0b\x19'
+tRp149
+tp150
+a(S'w'
+S'Gabriela Mistral'
+g2
+(S'\x07\x99\n\n'
+tRp151
+tp152
+a(S'd'
+S'Gabriela Mistral'
+g2
+(S'\x07\xa5\x01\n'
+tRp153
+tp154
+a(S'w'
+S'Hermann Hesse'
+g2
+(S'\x07\x9a\n\n'
+tRp155
+tp156
+a(S'd'
+S'Hermann Hesse'
+g2
+(S'\x07\xaa\x08\t'
+tRp157
+tp158
+a(S'w'
+S'Andr\xc3\xa9 Paul Guillaume Gide'
+g2
+(S'\x07\x9b\n\n'
+tRp159
+tp160
+a(S'd'
+S'Andr\xc3\xa9 Paul Guillaume Gide'
+g2
+(S'\x07\x9f\x02\x13'
+tRp161
+tp162
+a(S'w'
+S'Thomas Stearns Eliot'
+g2
+(S'\x07\x9c\n\n'
+tRp163
+tp164
+a(S'd'
+S'Thomas Stearns Eliot'
+g2
+(S'\x07\xad\x01\x04'
+tRp165
+tp166
+a(S'w'
+S'William Faulkner'
+g2
+(S'\x07\x9d\n\n'
+tRp167
+tp168
+a(S'd'
+S'William Faulkner'
+g2
+(S'\x07\xaa\x07\x06'
+tRp169
+tp170
+a(S'w'
+S'Earl (Bertrand Arthur William) Russell'
+g2
+(S'\x07\x9e\n\n'
+tRp171
+tp172
+a(S'd'
+S'Earl (Bertrand Arthur William) Russell'
+g2
+(S'\x07\xb2\x02\x02'
+tRp173
+tp174
+a(S'w'
+S'P\xc3\xa4r Fabian Lagerkvist'
+g2
+(S'\x07\x9f\n\n'
+tRp175
+tp176
+a(S'd'
+S'P\xc3\xa4r Fabian Lagerkvist'
+g2
+(S'\x07\xb6\x07\x0b'
+tRp177
+tp178
+a(S'w'
+S'Fran\xc3\xa7ois Mauriac'
+g2
+(S'\x07\xa0\n\n'
+tRp179
+tp180
+a(S'd'
+S'Fran\xc3\xa7ois Mauriac'
+g2
+(S'\x07\xb2\t\x01'
+tRp181
+tp182
+a(S'w'
+S'Sir Winston Leonard Spencer Churchill'
+g2
+(S'\x07\xa1\n\n'
+tRp183
+tp184
+a(S'd'
+S'Sir Winston Leonard Spencer Churchill'
+g2
+(S'\x07\xad\x01\x18'
+tRp185
+tp186
+a(S'w'
+S'Ernest Miller Hemingway'
+g2
+(S'\x07\xa2\n\n'
+tRp187
+tp188
+a(S'd'
+S'Ernest Miller Hemingway'
+g2
+(S'\x07\xa9\x07\x02'
+tRp189
+tp190
+a(S'w'
+S'Halld\xc3\xb3r Kiljan Laxness'
+g2
+(S'\x07\xa3\n\n'
+tRp191
+tp192
+a(S'd'
+S'Halld\xc3\xb3r Kiljan Laxness'
+g2
+(S'\x07\xce\x02\x08'
+tRp193
+tp194
+a(S'w'
+S'Juan Ram\xc3\xb3n Jim\xc3\xa9nez'
+g2
+(S'\x07\xa4\n\n'
+tRp195
+tp196
+a(S'd'
+S'Juan Ram\xc3\xb3n Jim\xc3\xa9nez'
+g2
+(S'\x07\xa6\x05\x1d'
+tRp197
+tp198
+a(S'w'
+S'Albert Camus'
+g2
+(S'\x07\xa5\n\n'
+tRp199
+tp200
+a(S'd'
+S'Albert Camus'
+g2
+(S'\x07\xa8\x01\x04'
+tRp201
+tp202
+a(S'w'
+S'Boris Leonidovich Pasternak'
+g2
+(S'\x07\xa6\n\n'
+tRp203
+tp204
+a(S'd'
+S'Boris Leonidovich Pasternak'
+g2
+(S'\x07\xa8\x05\x1e'
+tRp205
+tp206
+a(S'w'
+S'Salvatore Quasimodo'
+g2
+(S'\x07\xa7\n\n'
+tRp207
+tp208
+a(S'd'
+S'Salvatore Quasimodo'
+g2
+(S'\x07\xb0\x06\x0e'
+tRp209
+tp210
+a(S'w'
+S'Saint-John Perse'
+g2
+(S'\x07\xa8\n\n'
+tRp211
+tp212
+a(S'd'
+S'Saint-John Perse'
+g2
+(S'\x07\xb7\t\x14'
+tRp213
+tp214
+a(S'w'
+S'Ivo Andric'
+g2
+(S'\x07\xa9\n\n'
+tRp215
+tp216
+a(S'd'
+S'Ivo Andric'
+g2
+(S'\x07\xb7\x03\r'
+tRp217
+tp218
+a(S'w'
+S'John Steinbeck'
+g2
+(S'\x07\xaa\n\n'
+tRp219
+tp220
+a(S'd'
+S'John Steinbeck'
+g2
+(S'\x07\xb0\x0c\x14'
+tRp221
+tp222
+a(S'w'
+S'Giorgos Seferis'
+g2
+(S'\x07\xab\n\n'
+tRp223
+tp224
+a(S'd'
+S'Giorgos Seferis'
+g2
+(S'\x07\xb3\t\x14'
+tRp225
+tp226
+a(S'w'
+S'Jean-Paul Sartre'
+g2
+(S'\x07\xac\n\n'
+tRp227
+tp228
+a(S'd'
+S'Jean-Paul Sartre'
+g2
+(S'\x07\xbc\x04\x0f'
+tRp229
+tp230
+a(S'w'
+S'Mikhail Aleksandrovich Sholokhov'
+g2
+(S'\x07\xad\n\n'
+tRp231
+tp232
+a(S'd'
+S'Mikhail Aleksandrovich Sholokhov'
+g2
+(S'\x07\xc0\x02\x15'
+tRp233
+tp234
+a(S'w'
+S'Shmuel Yosef Agnon'
+g2
+(S'\x07\xae\n\n'
+tRp235
+tp236
+a(S'd'
+S'Shmuel Yosef Agnon'
+g2
+(S'\x07\xb2\x02\x11'
+tRp237
+tp238
+a(S'w'
+S'Miguel Angel Asturias'
+g2
+(S'\x07\xaf\n\n'
+tRp239
+tp240
+a(S'd'
+S'Miguel Angel Asturias'
+g2
+(S'\x07\xb6\x06\t'
+tRp241
+tp242
+a(S'w'
+S'Yasunari Kawabata'
+g2
+(S'\x07\xb0\n\n'
+tRp243
+tp244
+a(S'd'
+S'Yasunari Kawabata'
+g2
+(S'\x07\xb4\x04\x10'
+tRp245
+tp246
+a(S'w'
+S'Samuel Beckett'
+g2
+(S'\x07\xb1\n\n'
+tRp247
+tp248
+a(S'd'
+S'Samuel Beckett'
+g2
+(S'\x07\xc5\x0c\x16'
+tRp249
+tp250
+a(S'w'
+S'Aleksandr Isayevich Solzhenitsyn'
+g2
+(S'\x07\xb2\n\n'
+tRp251
+tp252
+a(S'd'
+S'Aleksandr Isayevich Solzhenitsyn'
+g2
+(S'\x07\xd8\x08\x03'
+tRp253
+tp254
+a(S'w'
+S'Pablo Neruda'
+g2
+(S'\x07\xb3\n\n'
+tRp255
+tp256
+a(S'd'
+S'Pablo Neruda'
+g2
+(S'\x07\xb5\t\x17'
+tRp257
+tp258
+a(S'w'
+S'Heinrich B\xc3\xb6ll'
+g2
+(S'\x07\xb4\n\n'
+tRp259
+tp260
+a(S'd'
+S'Heinrich B\xc3\xb6ll'
+g2
+(S'\x07\xc1\x07\x10'
+tRp261
+tp262
+a(S'w'
+S'Patrick White'
+g2
+(S'\x07\xb5\n\n'
+tRp263
+tp264
+a(S'd'
+S'Patrick White'
+g2
+(S'\x07\xc6\t\x1e'
+tRp265
+tp266
+a(S'w'
+S'Eyvind Johnson'
+g2
+(S'\x07\xb6\n\n'
+tRp267
+tp268
+a(S'd'
+S'Eyvind Johnson'
+g2
+(S'\x07\xb8\x08\x19'
+tRp269
+tp270
+a(S'w'
+S'Eugenio Montale'
+g2
+(S'\x07\xb7\n\n'
+tRp271
+tp272
+a(S'd'
+S'Eugenio Montale'
+g2
+(S'\x07\xbd\t\x0c'
+tRp273
+tp274
+a(S'w'
+S'Saul Bellow'
+g2
+(S'\x07\xb8\n\n'
+tRp275
+tp276
+a(S'd'
+S'Saul Bellow'
+g2
+(S'\x07\xd5\x04\x05'
+tRp277
+tp278
+a(S'w'
+S'Vicente Aleixandre'
+g2
+(S'\x07\xb9\n\n'
+tRp279
+tp280
+a(S'd'
+S'Vicente Aleixandre'
+g2
+(S'\x07\xc0\x0c\x0e'
+tRp281
+tp282
+a(S'w'
+S'Isaac Bashevis Singer'
+g2
+(S'\x07\xba\n\n'
+tRp283
+tp284
+a(S'd'
+S'Isaac Bashevis Singer'
+g2
+(S'\x07\xc7\x07\x18'
+tRp285
+tp286
+a(S'w'
+S'Odysseus Elytis'
+g2
+(S'\x07\xbb\n\n'
+tRp287
+tp288
+a(S'd'
+S'Odysseus Elytis'
+g2
+(S'\x07\xcc\x03\x12'
+tRp289
+tp290
+a(S'w'
+S'Czeslaw Milosz'
+g2
+(S'\x07\xbc\n\n'
+tRp291
+tp292
+a(S'd'
+S'Czeslaw Milosz'
+g2
+(S'\x07\xd4\x08\x0e'
+tRp293
+tp294
+a(S'w'
+S'Elias Canetti'
+g2
+(S'\x07\xbd\n\n'
+tRp295
+tp296
+a(S'd'
+S'Elias Canetti'
+g2
+(S'\x07\xca\x08\x0e'
+tRp297
+tp298
+a(S'w'
+S'Gabriel Garc\xc3\xada M\xc3\xa1rquez'
+g2
+(S'\x07\xbe\n\n'
+tRp299
+tp300
+a(S'd'
+S'Gabriel Garc\xc3\xada M\xc3\xa1rquez'
+g2
+(S'\x07\xde\x04\x11'
+tRp301
+tp302
+a(S'w'
+S'William Golding'
+g2
+(S'\x07\xbf\n\n'
+tRp303
+tp304
+a(S'd'
+S'William Golding'
+g2
+(S'\x07\xc9\x06\x13'
+tRp305
+tp306
+a(S'w'
+S'Jaroslav Seifert'
+g2
+(S'\x07\xc0\n\n'
+tRp307
+tp308
+a(S'd'
+S'Jaroslav Seifert'
+g2
+(S'\x07\xc2\x01\n'
+tRp309
+tp310
+a(S'w'
+S'Claude Simon'
+g2
+(S'\x07\xc1\n\n'
+tRp311
+tp312
+a(S'd'
+S'Claude Simon'
+g2
+(S'\x07\xd5\x07\x06'
+tRp313
+tp314
+a(S'w'
+S'Wole Soyinka'
+g2
+(S'\x07\xc2\n\n'
+tRp315
+tp316
+a(S'w'
+S'Joseph Brodsky'
+g2
+(S'\x07\xc3\n\n'
+tRp317
+tp318
+a(S'd'
+S'Joseph Brodsky'
+g2
+(S'\x07\xcc\x01\x1c'
+tRp319
+tp320
+a(S'w'
+S'Naguib Mahfouz'
+g2
+(S'\x07\xc4\n\n'
+tRp321
+tp322
+a(S'd'
+S'Naguib Mahfouz'
+g2
+(S'\x07\xd6\x08\x1e'
+tRp323
+tp324
+a(S'w'
+S'Camilo Jos\xc3\xa9 Cela'
+g2
+(S'\x07\xc5\n\n'
+tRp325
+tp326
+a(S'd'
+S'Camilo Jos\xc3\xa9 Cela'
+g2
+(S'\x07\xd2\x01\x11'
+tRp327
+tp328
+a(S'w'
+S'Octavio Paz'
+g2
+(S'\x07\xc6\n\n'
+tRp329
+tp330
+a(S'd'
+S'Octavio Paz'
+g2
+(S'\x07\xce\x04\x13'
+tRp331
+tp332
+a(S'w'
+S'Nadine Gordimer'
+g2
+(S'\x07\xc7\n\n'
+tRp333
+tp334
+a(S'd'
+S'Nadine Gordimer'
+g2
+(S'\x07\xde\x07\r'
+tRp335
+tp336
+a(S'w'
+S'Derek Walcott'
+g2
+(S'\x07\xc8\n\n'
+tRp337
+tp338
+a(S'd'
+S'Derek Walcott'
+g2
+(S'\x07\xe1\x03\x11'
+tRp339
+tp340
+a(S'w'
+S'Toni Morrison'
+g2
+(S'\x07\xc9\n\n'
+tRp341
+tp342
+a(S'w'
+S'Kenzaburo Oe'
+g2
+(S'\x07\xca\n\n'
+tRp343
+tp344
+a(S'w'
+S'Seamus Heaney'
+g2
+(S'\x07\xcb\n\n'
+tRp345
+tp346
+a(S'd'
+S'Seamus Heaney'
+g2
+(S'\x07\xdd\x08\x1e'
+tRp347
+tp348
+a(S'w'
+S'Wislawa Szymborska'
+g2
+(S'\x07\xcc\n\n'
+tRp349
+tp350
+a(S'd'
+S'Wislawa Szymborska'
+g2
+(S'\x07\xdc\x02\x01'
+tRp351
+tp352
+a(S'w'
+S'Dario Fo'
+g2
+(S'\x07\xcd\n\n'
+tRp353
+tp354
+a(S'd'
+S'Dario Fo'
+g2
+(S'\x07\xe0\n\r'
+tRp355
+tp356
+a(S'w'
+S'Jos\xc3\xa9 Saramago'
+g2
+(S'\x07\xce\n\n'
+tRp357
+tp358
+a(S'd'
+S'Jos\xc3\xa9 Saramago'
+g2
+(S'\x07\xda\x06\x12'
+tRp359
+tp360
+a(S'w'
+S'G\xc3\xbcnter Grass'
+g2
+(S'\x07\xcf\n\n'
+tRp361
+tp362
+a(S'd'
+S'G\xc3\xbcnter Grass'
+g2
+(S'\x07\xdf\x04\r'
+tRp363
+tp364
+a(S'w'
+S'Gao Xingjian'
+g2
+(S'\x07\xd0\n\n'
+tRp365
+tp366
+a(S'w'
+S'Sir Vidiadhar Surajprasad Naipaul'
+g2
+(S'\x07\xd1\n\n'
+tRp367
+tp368
+a(S'd'
+S'Sir Vidiadhar Surajprasad Naipaul'
+g2
+(S'\x07\xe2\x08\x0b'
+tRp369
+tp370
+a(S'w'
+S'Imre Kert\xc3\xa9sz'
+g2
+(S'\x07\xd2\n\n'
+tRp371
+tp372
+a(S'd'
+S'Imre Kert\xc3\xa9sz'
+g2
+(S'\x07\xe0\x03\x1f'
+tRp373
+tp374
+a(S'w'
+S'John M. Coetzee'
+g2
+(S'\x07\xd3\n\n'
+tRp375
+tp376
+a(S'w'
+S'Elfriede Jelinek'
+g2
+(S'\x07\xd4\n\n'
+tRp377
+tp378
+a(S'w'
+S'Harold Pinter'
+g2
+(S'\x07\xd5\n\n'
+tRp379
+tp380
+a(S'd'
+S'Harold Pinter'
+g2
+(S'\x07\xd8\x0c\x18'
+tRp381
+tp382
+a(S'w'
+S'Orhan Pamuk'
+g2
+(S'\x07\xd6\n\n'
+tRp383
+tp384
+a(S'w'
+S'Doris Lessing'
+g2
+(S'\x07\xd7\n\n'
+tRp385
+tp386
+a(S'd'
+S'Doris Lessing'
+g2
+(S'\x07\xdd\x0b\x11'
+tRp387
+tp388
+a(S'w'
+S'Jean-Marie Gustave Le Cl\xc3\xa9zio'
+g2
+(S'\x07\xd8\n\n'
+tRp389
+tp390
+a(S'w'
+S'Herta M\xc3\xbcller'
+g2
+(S'\x07\xd9\n\n'
+tRp391
+tp392
+a(S'w'
+S'Mario Vargas Llosa'
+g2
+(S'\x07\xda\n\n'
+tRp393
+tp394
+a(S'w'
+S'Tomas Transtr\xc3\xb6mer'
+g2
+(S'\x07\xdb\n\n'
+tRp395
+tp396
+a(S'd'
+S'Tomas Transtr\xc3\xb6mer'
+g2
+(S'\x07\xdf\x03\x1a'
+tRp397
+tp398
+a(S'w'
+S'Mo Yan'
+g2
+(S'\x07\xdc\n\n'
+tRp399
+tp400
+a(S'w'
+S'Alice Munro'
+g2
+(S'\x07\xdd\n\n'
+tRp401
+tp402
+a(S'w'
+S'Patrick Modiano'
+g2
+(S'\x07\xde\n\n'
+tRp403
+tp404
+a(S'w'
+S'Svetlana Alexievich'
+g2
+(S'\x07\xdf\n\n'
+tRp405
+tp406
+a(S'w'
+S'Bob Dylan'
+g2
+(S'\x07\xe0\n\n'
+tRp407
+tp408
+a(S'w'
+S'Kazuo Ishiguro'
+g2
+(S'\x07\xe1\n\n'
+tRp409
+tp410
+a.
