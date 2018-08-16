@@ -15,7 +15,10 @@ class Prize(NobelObject):
     @classmethod
     def _parse(cls, data, full=False):
         obj = super(Prize, cls)._parse(data, full)
-        obj.year = int(data['year'])
+        if 'year' in data.keys():
+            obj.year = int(data['year'])
+        else:
+            obj.year = 0
         if 'laureates' in data:
             obj.laureates = [cls.api.laureates._parse(l, full=False)
                              for l in data['laureates']]
